@@ -1,0 +1,10 @@
+{
+    "users_file": "users.json",
+    "listen_addrs": ["127.0.0.1:6809"],
+    "sweatbox_listen_addrs": ["127.0.0.1:6820"],
+    "fsd_mode": 0,
+    "facility_enforcement": "strict",
+    "weather": "",
+    "weather_fallback": "",
+    "client_auth_keys": {}
+}

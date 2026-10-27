@@ -1,0 +1,11 @@
+.DS_Store
+.temp/
+/bin/
+/dist/
+/config.json
+/users.json
+.env
+.env.*
+!.env.example
+*.pem
+*.key

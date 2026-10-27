@@ -1,0 +1,10 @@
+.git
+.temp
+bin
+dist
+config.json
+users.json
+.env
+.env.*
+*.pem
+*.key
