@@ -13,6 +13,6 @@ permissions:
 
 jobs:
   review:
-    uses: JianyueLab-Org/actions/.github/workflows/ai-code-review.yml@main
+    uses: JianyueLab-Org/actions/.github/workflows/ai-code-review.yml@feat/ai-review-v2
     # Same org as the reusable workflow: AI_API_KEY and AI_BASE_URL are inherited.
     secrets: inherit
