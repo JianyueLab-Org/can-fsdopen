@@ -25,3 +25,7 @@ func average(xs []int) int {
 	}
 	return sum / len(xs)
 }
+
+func ratio(a, b int) int {
+	return a / b
+}
